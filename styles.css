@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 50px;
+
+    /* margin-bottom: ;
+    margin-right: ;
+    margin-left:  ; */
+
+}
+
+button
+{
+    padding: 10px 20px ;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover 
+{
+    
+    background-color: #0056b3 ;
+
+}
+
